@@ -25,7 +25,10 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "../testApp/node_modules/jquery/dist/jquery.js",
+              "../testApp/node_modules/ion-rangeslider/js/ion.rangeSlider.min.js"
+            ]
           },
           "configurations": {
             "production": {
