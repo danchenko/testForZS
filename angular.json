@@ -26,8 +26,8 @@
               "src/styles.css"
             ],
             "scripts": [
-              "../testApp/node_modules/jquery/dist/jquery.js",
-              "../testApp/node_modules/ion-rangeslider/js/ion.rangeSlider.min.js"
+              "node_modules/jquery/dist/jquery.js",
+              "node_modules/ion-rangeslider/js/ion.rangeSlider.min.js"
             ]
           },
           "configurations": {
